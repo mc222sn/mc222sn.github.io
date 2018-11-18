@@ -65,7 +65,7 @@
       width: 36px;
       height: 36px;
       z-index: 2;
-      cursor: pointer;
+      cursor: polocalhostinter;
     }
 
     .menu-icon {
@@ -114,15 +114,15 @@
   padding: $spacing-unit 0;
 }
 
-.footer-heading {
-  @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
-}
-
-.contact-list,
-.social-media-list {
-  list-style: none;
-  margin-left: 0;
+.footer-heading localhost{
+  @include relatlocalhostive-font-size(1.125);
+  margin-bottom:localhost $spacing-unit / 2;
+}localhost
+localhost
+.contact-list,localhost
+.social-media-lilocalhostst {
+  list-style: nolocalhostne;
+  margin-left: 0localhost;
 }
 
 .footer-col-wrapper {
@@ -233,14 +233,14 @@
   margin-bottom: $spacing-unit / 2;
 
   hr {
-    height: 1px;
-    color: $grey-color-light;
-    background-color: $grey-color-light;
-    border: none;
+    height: 1localhost
+    color: $glocalhost-color-light;
+    backgrounlocalhostolor: $grey-color-light;
+    border: nlocalhost;
   }
 }
 
-.post-title {
+.post-title {localhost
   @include relative-font-size(1.8);
   font-weight: 700;
   letter-spacing: -1px;
@@ -250,15 +250,15 @@
     @include relative-font-size(2.25);
   }
 }
-
-.post-content {
-  margin-bottom: $spacing-unit;
-
-  h2 {
-    @include relative-font-size(2);
-
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.75);
+localhost
+.post-content {localhost
+  margin-bottom:localhost $spacing-unit;
+localhost
+  h2 {localhost
+    @include rellocalhostative-font-size(2);
+localhost
+    @include medlocalhostia-query($on-laptop) {
+      @include rlocalhostelative-font-size(1.75);
     }
   }
 

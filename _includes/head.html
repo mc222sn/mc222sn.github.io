@@ -5,9 +5,11 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
+  <meta property="og:image" content="{{ "/assets/marcus-icon.png" | relative_url }}"/>
+
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
   <link rel="author" href="humans.txt"/>
-  {{ open_graph_links }}
+
 </head>

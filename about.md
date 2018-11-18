@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is my story. I've been working a couple of years as an IT Technician I always had an interest in programming. I did a lot of web development with PHP/WordPress back in the days with several projects. Then I got to know the programming language Python and started learning that. The web framework Django got to my attention and my impressions were that it did the web development so much 
+This is my story. I've been working a couple of years as an IT Technician. Under that time my interest grew for programming. So I started learning Python as my first programming language. My impressions of it was good, because the language itself is very beginner friendly. Wrote a lot of various scripts and later went on to do more web development with the web framework Django. 
+
+Now I'm studying at LNU, Software Development and Operations (Computer Science). The program is for three years.

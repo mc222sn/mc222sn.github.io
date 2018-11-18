@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2018-11-16 12:56:15 -0600
+date:   2018-11-16 22:12:15 +0100
 categories: jekyll update
 ---
 Just some sample text.
