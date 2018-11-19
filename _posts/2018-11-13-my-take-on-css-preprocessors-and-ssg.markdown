@@ -15,7 +15,3 @@ The downside of it that I can think of is when I'm using the browser debug tool 
 My impressions of SSG (Static Site Generators) are really good. It's really fast to create a site, easy to understand how it works and many tools already built in. 
 
 So what type of projects are they suitable for then? Well I would say it's a good choice for documentation sites. For example a documentation site for an Free Software/Open Source project or just a simple blog. Or both. 
-
-#### Implementation of comments to my blog posts
-
-#### Open Graph, what is it?

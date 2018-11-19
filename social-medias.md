@@ -6,7 +6,7 @@ permalink: /social-medias/
 
 Follow/add me on my social medias below:
 
-Github: [@qexcc](https://github.com/qexcc/)
+Bitbucket: [@qexcc](https://bitbucket.org/qexcc/)
 
 Twitter: [@qexcc](https://twitter.com/qexcc/)
 
