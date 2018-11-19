@@ -43,10 +43,7 @@ jekyll_feed:
   truncate_size: 50
 
 show_excerpts: true
-<<<<<<< HEAD
 future: true
-=======
->>>>>>> 77d384ef7a9477691f49a58d49412aa08ca93075
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
