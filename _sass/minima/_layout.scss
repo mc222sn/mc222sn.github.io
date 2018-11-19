@@ -234,10 +234,10 @@
 
   hr {
     height: 1px;
-    color: $grey-color-light;
-    background-color: $grey-color-light;
-    border: none;
-  }
+   html, html a {color-light;
+       -webkit-font-smoothing: antialiased;lor: $grey-color-light;
+       text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+  }}
 }
 
 .post-title {
